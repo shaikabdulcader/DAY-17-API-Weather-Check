@@ -1,1 +1,1 @@
-# DAY-17-API-Weather-Check
+To Check an Weather of All Countries From API using Promises and the fetch method.
