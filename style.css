@@ -1,0 +1,43 @@
+body {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
+}
+.card{
+    width: 70%;
+}
+.card-header {
+    background-image: linear-gradient( 109.6deg,  rgba(61,131,97,1) 11.2%, rgba(28,103,88,1) 91.1% );
+    color: white;
+    text-transform: uppercase;
+}
+
+#title{
+    background-color: #FA8BFF;
+background-image: linear-gradient(0deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+.btn{
+    background-image: linear-gradient( 109.6deg,  rgba(61,131,97,1) 11.2%, rgba(28,103,88,1) 91.1% );
+    border: 1px solid #3D8361;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.btn:hover{
+    background: #0D6EFD;
+    transition: 0.5s;
+}
+
+.card-body{
+    color: #fff;
+    background-image: radial-gradient( circle farthest-corner at 32.7% 82.7%,  rgba(173,0,171,1) 8.3%, rgba(15,51,92,1) 79.4% );
+}
+.card-text {
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+img {
+    border: 1px solid #fff;
+}
